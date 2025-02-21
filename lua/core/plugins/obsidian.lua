@@ -25,7 +25,7 @@ return {
     },
     notes_subdir = "notes",
     daily_notes = {
-      folder = "",
+      folder = "daily",
       date_format = "%Y-%m-%d",
       alias_format = "",
       default_tags = { "daily_notes" },

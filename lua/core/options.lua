@@ -76,4 +76,7 @@ vim.opt.expandtab = true
 vim.bo.softtabstop = 2
 
 -- for obsidian.nvim
-vim.opt.conceallevel = 1
+vim.opt.conceallevel = 2
+
+-- show tabs always
+vim.opt.showtabline = 2
